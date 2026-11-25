@@ -10,3 +10,4 @@ kolayca yerleştirilir. Bu görselleştirme pratiği, projenin okunabilirliğini
 geliştiricinin küresel sektör standartlarına olan teknik bağlılığını da kanıtlar. Geliştirilen her yeni 
 algoritmanın standart akış şemasını ve örnek çalışma ekranını güncel dokümantasyona görsel olarak 
 eklemek, yüksek nitelikli projeler üretmenin en temel kuralıdır.
+![bayrak](https://github.com/fatosyapayzeka-lgtm/kod_asistan-m1/blob/59ff1eab1af753029b7fa55ca1e080cea7adea00/bayrak.jpg)
